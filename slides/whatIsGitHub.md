@@ -1,4 +1,4 @@
-### GitHub, c'est quoi?
+### C'est quoi GitHub?
 
 - Créé en 2008
 - Utilise git

@@ -1,4 +1,4 @@
-### Git, c'est quoi?
+### C'est quoi git?
 
 - Créé par Linus Torvalds en 2005
 - Beaucoup plus rapide que Subversion
