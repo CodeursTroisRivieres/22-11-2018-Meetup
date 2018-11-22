@@ -3,9 +3,8 @@
 - Les systèmes de gestion de version
 - Pourquoi utiliser un système de gestion de version?
 - Pourquoi utiliser git?
-- Pourquoi utiliser GitHub?
-- Interface graphique de GitHub
 - Commit, Push, Pull, Pull request et Merge
+- Interface graphique de GitHub
 - Conclusion
 
 Note:
