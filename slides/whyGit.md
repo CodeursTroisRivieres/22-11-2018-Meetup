@@ -1,5 +1,8 @@
 ### Pourquoi utiliser git?
 
-- C'est quoi git?
-- Avantages
-- Fonctionnement
+1. C'est quoi git?
+2. Fonctionnement
+  * Commit
+  * Branch
+  * Pull/Push
+  * Conflits
