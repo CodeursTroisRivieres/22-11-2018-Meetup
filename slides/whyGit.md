@@ -6,5 +6,5 @@
   * Branch
   * Commit
   * Pull request
-  * Pull/Push
   * Conflits
+  * Pull/Push
