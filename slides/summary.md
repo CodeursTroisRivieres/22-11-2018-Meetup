@@ -4,7 +4,9 @@
 - Pourquoi utiliser un système de gestion de version?
 - Pourquoi utiliser git?
 - Branch, Commit, Pull request, Push/Pull
-- Interface graphique de GitHub
+- GitHub Desktop
+- Coût
+- Compétiteurs à GitHub
 - Conclusion
 
 Note:
