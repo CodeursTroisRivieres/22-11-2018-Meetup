@@ -5,5 +5,6 @@
 3. Fonctionnement
   * Branch
   * Commit
+  * Pull request
   * Pull/Push
   * Conflits

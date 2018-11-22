@@ -1,6 +1,6 @@
 ### Branch
 
-* Représente généralement une fonctionnalité, correction ou idée
+* Représente généralement une fonctionnalité, un bug ou idée
 * La branch principale s'appelle _**master**_, devrait être considérée comme une release et toujours être fonctionnelle
 * Copie isolée du code qui permet de travailler sur une fonctionnalité sans briser/modifier le code en release
 * Le nom d'une branch doit être descriptif
